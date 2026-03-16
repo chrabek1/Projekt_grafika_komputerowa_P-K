@@ -145,6 +145,11 @@ Plakaty mają prostą formę i jedno mocne hasło, które przyciąga uwagę.
 
 ## Plakat 1
 
+Szyfrowany plakat
+
+## Plakat 1
+
+
 **Hasło**
 
 BEZ DANYCH NIE MA AI
